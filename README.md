@@ -1,1 +1,36 @@
-# tysonmaxwellhart.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LaQuan's Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: #111;
+            color: white;
+            padding: 50px;
+        }
+
+        h1 {
+            color: cyan;
+        }
+
+        .card {
+            background: #222;
+            padding: 20px;
+            border-radius: 10px;
+            width: 300px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>Welcome!</h1>
+        <p>I'm LaQuan.</p>
+        <p>This is my free website.</p>
+    </div>
+
+</body>
+</html>
